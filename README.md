@@ -1,6 +1,6 @@
-========================================
-            MindQuest
-========================================
+
+            #MindQuest
+
 
 Welcome to MindQuest! This guide will help you set up the SQL database and install the PHP project on your local machine using XAMPP.
 
