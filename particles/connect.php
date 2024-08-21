@@ -1,6 +1,6 @@
 <?php
 // Define the server name, username, password, and database name for the MySQL connection
-$servername = 'localhost:3307'; // Server address and port, commonly 'localhost', but using port 3307 instead of the default 3306
+$servername = 'localhost'; // Server address and port, commonly 'localhost'
 $username = 'root'; // MySQL username, 'root' is the default for local development
 $password = ''; // MySQL password, empty by default for 'root' on XAMPP
 $dbName = 'forum'; // Name of the database you want to connect to, in this case, 'forum'
