@@ -16,7 +16,7 @@ Follow the installation instructions for your operating system.
 ----------------------------------------
 Clone the project repository from GitHub to your local machine:
 
-git clone https://github.com/your-username/MindQuest.git
+git clone https://github.com/hashirmeraj/MindQuest.git
 
 ----------------------------------------
 3. CREATE THE DATABASE
